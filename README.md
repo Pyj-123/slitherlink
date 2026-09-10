@@ -1,2 +1,17 @@
-# slitherlink
-HarmonyOS Slitherlink puzzle game
+# 数回（Slitherlink）— HarmonyOS 版
+
+一款在鸿蒙平台上运行的原生数回解谜游戏。
+
+## 功能
+- 支持 6×6、8×8、10×10 三种棋盘
+- 简单、中等、困难三种难度
+- 每日挑战、网络对战、排行榜
+- 自动保存进度，断点续玩
+
+## 截图
+（此处可上传 1~2 张游戏截图）
+
+## 技术栈
+- HarmonyOS Next + ArkTS
+- ArkUI 声明式开发
+- Canvas 自定义绘制
